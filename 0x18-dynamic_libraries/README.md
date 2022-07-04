@@ -1,1 +1,1 @@
-my readme for dynamic libraries
+This is a new project on C.
